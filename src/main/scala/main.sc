@@ -1,5 +1,5 @@
 /**
- * Llmada con arametro una función.
+ * Llamada con parametro una función.
  *
  * Curso: MCA 1 2026-1 FCiencias
  * Tema: Funciones como parámetros
