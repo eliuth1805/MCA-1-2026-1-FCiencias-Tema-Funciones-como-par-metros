@@ -6,6 +6,8 @@ Llamada con parametro una función.
  * Autor: Jesús Eliuth Martínez Mendoza 
  * Fecha: 05 Nov 2025
 
+ ** Software: Scala 3.7.3 (online) **
+ 
 "Mi Programa Funcional"
  
 Este programa muestra cómo pasar una función como parámetro.
