@@ -7,6 +7,8 @@
  * Autor: Jesús Eliuth Martínez Mendoza 
  * Fecha: 05 Nov 2025
  *
+ ** Software: Scala 3.7.3 (online)
+ *
  * Descripción:
  * Este programa muestra cómo pasar una función como parámetro.
  * La función `calcular` recibe dos números y otra función que indica
